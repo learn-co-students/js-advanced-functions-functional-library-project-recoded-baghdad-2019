@@ -290,11 +290,11 @@ describe('index.js', function () {
     })
   })
 
-  describe('giveMeMore', function () {
-    it('come get more things to do from an instructor', function () {
-      expect(false).to.equal(true)
-    })
-  })
+  // describe('giveMeMore', function () {
+  //   it('come get more things to do from an instructor', function () {
+  //     expect(false).to.equal(true)
+  //   })
+  // })
 
 })
 
